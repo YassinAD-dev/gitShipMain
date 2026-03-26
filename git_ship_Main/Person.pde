@@ -204,9 +204,9 @@ class Person {
     //12 $ per line, 4 lines max --> 48 character message
     //+40 in y for each line at font 4
     fill(shirt);
-    Font.draw(320, 50, 4, _a, _l, _a, _s, _comma, _space, _t, _h, _e);
-    Font.draw(320, 90, 4, _c, _a, _k, _e, _space, _i, _s, _space, _a, _space);
-    Font.draw(320, 130, 4, _l, _i, _e, _exclam, _space, _w, _h, _a, _t);
-    Font.draw(320, 170, 4, _w, _i, _l, _l, _space, _w, _e, _space, _d, _o, _exclam);
+    Font.draw(320, 50, 4, _h, _o, _m, _e, _space, _t, _o, _space, _t, _h, _e);
+    Font.draw(320, 90, 4, _1, _s, _t, _space, _t, _i, _m, _m, _i, _e, _s);
+    Font.draw(320, 130, 4, _i, _n, _space, _o, _u, _t, _e, _r, _dash);
+    Font.draw(320, 170, 4, _s, _p, _a, _c, _e, _exclam, _space, _colon, _dash, _rParen);
   }
 }
